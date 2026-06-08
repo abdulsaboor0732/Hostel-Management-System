@@ -17,7 +17,7 @@ An itemized application built natively with C++ utilizing advanced Object-Orient
 * **Member 1** - [Abdul Saboor](https://github.com/abdulsaboor0732) - Refactored Architectural System & Clean Core Main Implementation Loops
 * **Member 2** - [@Partner1Username](https://github.com) - Custom Library Layout Structuring, Header Configurations, & Verification Check Frameworks
 * **Member 3** - [Syed Zaryab Haider](syedzaryabhaidersharazi-beep) - Persistence Core I/O Stream Formatting & Documentation Assembly
-*  **Member 4** - [Partner 3 Name](https://github.com/partner3_username) - Quality Assurance, Code Standardization & Execution Workflow Optimization
+* **Member 4** - [Partner 3 Name](https://github.com/partner3_username) - Quality Assurance, Code Standardization & Execution Workflow Optimization
 
 ## Compiling & Executing instructions
 Run the execution chain using standard toolchains:
