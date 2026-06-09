@@ -14,11 +14,15 @@ An itemized application built natively with C++ utilizing advanced Object-Orient
 * `hostel.cpp`: Custom built implementation core body layer executing internal validation loops and calculation trees.
 
 ## Contributor Group Assignments
-* **Member 1** - [Abdul Saboor](https://github.com/abdulsaboor0732) - Refactored Architectural System & Clean Core Main Implementation Loops
-* **Member 2** - [Muhammad Anas](https://github.com/muhammadanas1530) - Custom Library Layout Structuring, Header Configurations, & Verification Check Frameworks
-* **Member 3** - [Syed Zaryab Haider](syedzaryabhaidersharazi-beep) - Persistence Core I/O Stream Formatting & Documentation Assembly
+* **Member 1** - [Abdul Saboor](https://github.com/abdulsaboor0732) - Setup, Classes & File I/O
+
+* **Member 2** - [Muhammad Anas](https://github.com/muhammadanas1530) - Constructor, Add, Show, Search, Edit
+
+* **Member 3** - [Syed Zaryab Haider](syedzaryabhaidersharazi-beep) - Delete, Rooms & Fee Assign
+
 * **Member 4** - [SHAHZAIB HAIDER](shahzaibhaider87656-code
-) - Quality Assurance, Code Standardization & Execution Workflow Optimization
+) - Fee Status, Show Fees & Menus
+
 
 ## Compiling & Executing instructions
 Run the execution chain using standard toolchains:
