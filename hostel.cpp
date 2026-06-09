@@ -1,9 +1,8 @@
 #include "hostel.h"
 using namespace std;
 
-// =============================================
 //  GLOBAL UTILITIES
-// =============================================
+
 void line()    { cout << "========================================\n"; }
 void clearIn() { cin.clear(); cin.ignore(1000, '\n'); }
 
@@ -27,9 +26,7 @@ bool readFloat(float& out, const char* prompt) {
     clearIn(); return true;
 }
 
-// =============================================
 //  CLASS METHODS IMPLEMENTATION
-// =============================================
 
 Person::Person() { strcpy(name, ""); strcpy(contact, ""); }
 
@@ -52,9 +49,7 @@ void Room::display() const {
          << "  Status  : " << (available ? "Available" : "Occupied") << "\n";
 }
 
-// =============================================
 //  HOSTEL CLASS METHODS
-// =============================================
 
 Hostel::Hostel() : sc(0), rc(0) { loadStudents(); loadRooms(); }
 Hostel::~Hostel() { saveStudents(); saveRooms(); }
